@@ -1,7 +1,7 @@
 <template>
   <div class="nav-container">
     <div class="nav-brand">
-      <img class="logo" src="" alt="">
+      <img class="logo" src="https://placehold.it/40x40" alt="">
       <span class="logo-title">HoThine</span>
     </div>
     <el-menu class="navbar" mode="horizontal">
